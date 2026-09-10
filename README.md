@@ -7,6 +7,7 @@ I am a **B.Tech Cyber Security student at Dhanalakshmi Srinivasan Engineering Co
 I am focused on developing practical skills in **AWS, IAM, Linux, networking, Python, security monitoring, and cloud security best practices.** I use GitHub to document my learning, security labs, projects, and technical experiments.
 
 **About Me**
+
 🎓 B.Tech Cyber Security Student
 ☁️ Aspiring Cloud Security Engineer
 🔐 Interested in Cloud & Infrastructure Security
@@ -18,6 +19,7 @@ I am focused on developing practical skills in **AWS, IAM, Linux, networking, Py
 **Technical Interests**
 
 **cloud security**
+
 AWS
 Identity & Access Management (IAM)
 Cloud Security Architecture
@@ -70,6 +72,7 @@ My goal is to build a strong foundation in Cloud Security Engineering and develo
 I am actively looking for opportunities to learn, contribute to security projects, and gain hands-on industry experience through internships and real-world projects.
 
 **GitHub**
+
 This profile contains my:
 
 Security labs
@@ -85,8 +88,8 @@ I believe in learning by building and documenting the process.
 
 **GitHub:** github.com/jayavel-cloud
 
-**LinkedIn:** Add your LinkedIn profile
+**LinkedIn:** https://www.linkedin.com/in/jaya-vel-s-23701142a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-**Email:** Add your professional email
+**Email:** jayavel.somasundaram.jv@gmail.com 
 
 **Learning to build secure cloud environments.**
