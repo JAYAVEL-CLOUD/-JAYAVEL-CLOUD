@@ -16,7 +16,7 @@ I am focused on developing practical skills in **AWS, IAM, Linux, networking, Py
 ☁️ Building hands-on experience with AWS
 🛡️ Interested in IAM, security monitoring, and threat detection
 
-**TECHNIACAL INTERESTS:**
+**🌟TECHNIACAL INTERESTS:**
 
 **cloud security**
 
@@ -48,19 +48,19 @@ AWS IAM Security Lab**
 
 Hands-on exploration of IAM users, groups, roles, policies, permissions, and least-privilege access.
 
-**Learning to build secure cloud environments.**
+**🌟Learning to build secure cloud environments.**
 
 Practical investigation of cloud logging, monitoring, security events, and basic threat detection.
 
-**Linux Security Lab**
+**🌟Linux Security Lab**
 
 Hands-on exercises covering Linux users, permissions, SSH security, processes, and system logs.
 
-**Python Security Automation**
+**🌟Python Security Automation**
 
 Security-focused Python scripts designed to automate common cybersecurity and system administration tasks.
 
-**CURRENT FOCUSING**
+**🌟CURRENT FOCUSING**
 
 I am currently focusing on:
 AWS fundamentals and security services
@@ -71,13 +71,13 @@ Python security automation
 Security monitoring and incident detection
 Cloud security architecture
 
-**CARRER OBJECTIVE**
+**🌟CARRER OBJECTIVE**
 
 My goal is to build a strong foundation in Cloud Security Engineering and develop the practical skills required to design, monitor, and secure cloud environments.
 
 I am actively looking for opportunities to learn, contribute to security projects, and gain hands-on industry experience through internships and real-world projects.
 
-**GitHub**
+**🌟GitHub**
 
 This profile contains my:
 
@@ -90,12 +90,12 @@ Technical documentation
 
 I believe in learning by building and documenting the process.
 
-**CONNECT**
+**💫CONNECT**
 
-**GitHub:** github.com/jayavel-cloud
+**👉GitHub:** github.com/jayavel-cloud
 
-**LinkedIn:** https://www.linkedin.com/in/jaya-vel-s-23701142a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+**👉LinkedIn:** https://www.linkedin.com/in/jaya-vel-s-23701142a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-**Email:** jayavel.somasundaram.jv@gmail.com 
+**👉Email:** jayavel.somasundaram.jv@gmail.com 
 
 **Learning to build secure cloud environments.**
